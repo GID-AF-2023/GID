@@ -14,7 +14,7 @@ credits: true
 
 ## Informazioni sulla Raccolta
 
-Questo sito è stato generato con [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), un progetto che crea semplici raccolte digitali con [GitHub Pages](https://pages.github.com/) from: 
+Questo sito è stato generato con [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), un progetto che crea semplici raccolte digitali con [GitHub Pages](https://pages.github.com/) a partire da: 
 
 - un CSV di metadati della raccolta
 - una cartella di immagini JPG o di documenti PDF
